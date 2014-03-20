@@ -1,8 +1,8 @@
 ## StocksException
 
-Dependency on
+`git pull https://github.com/GeeksException/stocksexception-web.git`
 
-### PSEi Stocks API (PSEi REST Web Service Client API)
+### Depends on PSEi Stocks API : 1.0.1.RELEASE
 
-# git pull https://github.com/GeeksException/pse-stocks-api
-# mvn install
+* `git pull https://github.com/GeeksException/pse-stocks-api`
+* `mvn install`
