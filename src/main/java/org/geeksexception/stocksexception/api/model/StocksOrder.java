@@ -1,5 +1,5 @@
 package org.geeksexception.stocksexception.api.model;
 
-public interface Order {
+public class StocksOrder implements Order {
 	
 }

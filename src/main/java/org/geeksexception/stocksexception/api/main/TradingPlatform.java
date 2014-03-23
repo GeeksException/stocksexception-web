@@ -1,5 +1,5 @@
 package org.geeksexception.stocksexception.api.main;
 
-public class Todo {
+public interface TradingPlatform {
 	
 }

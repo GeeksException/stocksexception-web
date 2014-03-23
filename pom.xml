@@ -23,8 +23,7 @@
   	<servlet.version>2.5</servlet.version>
   	<hsql.version>1.8.0.10</hsql.version>
   	<mongodb.version>2.11.4</mongodb.version>
-  	<sqlserver.version>4.0</sqlserver.version>
-  	<psestocks.version>1.0.1.RELEASE</psestocks.version>
+  	<psestocks.version>1.0.2.RELEASE</psestocks.version>
   </properties>
   
   <dependencies>
